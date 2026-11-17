@@ -1,0 +1,6 @@
+{
+  "name": "ARORA AI",
+  "description": "Futuristic offline-first Indian AI education platform for CBSE Class 12 featuring adaptive device RAM optimization, Voice-First Interactive AI Teacher, Year-Wise Academic Library, Question Bank, and Mock Examination Centre.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
